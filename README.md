@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Just another repository made by your average computer nerd, looking to start out fresh...
